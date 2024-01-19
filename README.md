@@ -1,2 +1,2 @@
-# JavaScript
+# JavaScript-learn-hritesh
 JavaScript Learning
